@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234541900483",
+    "firebase_url": "https://fir-c9f9b.firebaseio.com",
+    "project_id": "fir-c9f9b",
+    "storage_bucket": "fir-c9f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234541900483:android:c4485cef26609a40",
+        "android_client_info": {
+          "package_name": "com.saleel.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234541900483-qjp5q668b9hoej4eat0jknjaueemb1uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saleel.firebase",
+            "certificate_hash": "c2ffb9a01f4532486b277b8a9f1e0d5d75745bd4"
+          }
+        },
+        {
+          "client_id": "234541900483-9op67lp8bopv51c169rrt9a8ud19mvse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6LHmymwBwDFx1k-JA1m73RF-HEm0WxoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234541900483-9op67lp8bopv51c169rrt9a8ud19mvse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
